@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kangoovah.jagoly.net/sitemap.xml
